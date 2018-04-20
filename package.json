@@ -1,0 +1,27 @@
+{
+  "name": "ipgeo",
+  "version": "1.0.0",
+  "description": "Geo info retriver for ipv4 address using chinese taobao service.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiic03/node-ipgeo.git"
+  },
+  "keywords": [
+    "ip",
+    "geo"
+  ],
+  "author": "aiic03",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aiic03/node-ipgeo/issues"
+  },
+  "homepage": "https://github.com/aiic03/node-ipgeo#readme"
+}
